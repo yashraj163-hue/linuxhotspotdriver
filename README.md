@@ -3,6 +3,7 @@ Recently while trying to update and download a few python libraries in my wsl (w
 Even when I set the network mode to mirrored and managed the protocols there was a significant loss of packets as follows:
 
 --- google.com ping statistics ---
+
 3 packets transmitted, 1 received, 66.6667% packet loss, time 2015ms
 rtt min/avg/max/mdev = 89.097/89.097/89.097/0.000 ms
 
