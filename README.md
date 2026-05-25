@@ -1,4 +1,5 @@
 to be updated with more issue details:
+
 hey everyone,
 Recently while trying to update and download a few python libraries in my wsl (windows subsystem linux) I faced an issue. I was using my mobile hotspot to download the packages, which led to a heavy loss of packets probably due to the usage of restricted ipv6 protocol while wsl uses ipv4.
 Even when I set the network mode to mirrored and managed the protocols there was a significant loss of packets as follows:
