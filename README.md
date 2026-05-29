@@ -30,6 +30,14 @@ if any one has experience working with linux your help will be rejoiced by all o
 FINAL FIX:
 wsl --shutdown //in powershell
 clone .wslconfig file into your pc and store it in C/users/user
+version details:
+WSL version: 2.6.1.0
+Kernel version: 6.6.87.2-1
+WSLg version: 1.0.66
+MSRDC version: 1.2.6353
+Direct3D version: 1.611.1-81528511
+DXCore version: 10.0.26100.1-240331-1435.ge-release
+Windows version: 10.0.26200.8457
 ```
 
 <img width="629" height="335" alt="image" src="https://github.com/user-attachments/assets/a3ec82bb-abf0-4c3a-a4b6-f042d9dc61b1" />
