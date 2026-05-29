@@ -27,6 +27,7 @@ I am too egoistic to use wires.
 I am trying to build a decently working wifi driver for wsl which supports ipv6 and bypasses jio and airtel's bullshit.
 Here is my repo.
 if any one has experience working with linux your help will be rejoiced by all of us wsl creatures.
+
 FINAL FIX:
 wsl --shutdown //in powershell
 clone .wslconfig file into your pc and store it in C/users/user
