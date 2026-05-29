@@ -33,3 +33,5 @@ clone .wslconfig file into your pc and store it in C/users/user
 ```
 
 <img width="629" height="335" alt="image" src="https://github.com/user-attachments/assets/a3ec82bb-abf0-4c3a-a4b6-f042d9dc61b1" />
+<img width="1280" height="523" alt="image" src="https://github.com/user-attachments/assets/b69f3d20-254d-4272-b1a0-e2fe5e6e4d48" />
+
