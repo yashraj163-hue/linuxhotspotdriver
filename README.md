@@ -30,7 +30,6 @@ if any one has experience working with linux your help will be rejoiced by all o
 FINAL FIX:
 wsl --shutdown //in powershell
 clone .wslconfig file into your pc and store it in C/users/user
-
 ```
 
 <img width="629" height="335" alt="image" src="https://github.com/user-attachments/assets/a3ec82bb-abf0-4c3a-a4b6-f042d9dc61b1" />
